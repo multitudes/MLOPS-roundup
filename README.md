@@ -1,45 +1,45 @@
-# MLOPS-roundup
-A collections of links and resources about the MLops community Berlin.  
+# MLOps Roundup - Berlin Community Event
 
-# 12 May 25
-https://lu.ma/xviwq6gw
-### Speakers
+A collection of links and resources from the MLOps Community Berlin meetup.
 
-- Patrick Loeber
-https://patloeber.com/
+## Event: Monday, 12 May 2025
 
-​Senior Developer Relations Engineer, Google DeepMind
-Building AI Agents with Google Gemini
-​A look at how Google Gemini enables multimodal agents and supports workflows across the Google ecosystem—laying the groundwork for interoperability through A2A.  
-​
-- Tejas Kumar  
-​Developer Relations Engineer, Generative AI, DataStax
-​Live Coding: Agents with DataStax + MCP
-​See how real-time pipelines and the Model Context Protocol help agents make better decisions. Expect a full-stack walkthrough—no fluff.
+* **Event Link:** [https://lu.ma/xviwq6gw](https://lu.ma/xviwq6gw)
 
-​- Dat Daryl Ngo  
-​Director of Solutions, Arize AI  
-​Evaluating & Scaling AI Agents for Production  
-​From observability to bottlenecks: how to actually get agents working in production environments, especially in the messiness of A2A-compatible systems.  
-https://phoenix.arize.com/
+---
 
-## Resources
+### Speakers & Topics
 
+* **Patrick Loeber**
+    * Senior Developer Relations Engineer, Google DeepMind
+    * **Topic:** Building AI Agents with Google Gemini
+    * **Notes:** Explored how Google Gemini facilitates multimodal agents and workflows within the Google ecosystem, emphasizing interoperability (A2A).
+    * **Link:** [https://patloeber.com/](https://patloeber.com/)
 
-## What are agents
-https://ppc.land/content/files/2025/01/Newwhitepaper_Agents2.pdf
+* **Tejas Kumar**
+    * Developer Relations Engineer, Generative AI, DataStax
+    * **Topic:** Live Coding: Agents with DataStax + MCP
+    * **Notes:** Demonstrated how real-time pipelines and the Model Context Protocol (MCP) can improve agent decision-making through a full-stack walkthrough.
 
-## Gemma
-https://ai.google.dev/gemma
+* **Dat Daryl Ngo**
+    * Director of Solutions, Arize AI
+    * **Topic:** Evaluating & Scaling AI Agents for Production
+    * **Notes:** Discussed practical aspects of deploying agents in production, covering observability, identifying bottlenecks, and managing A2A-compatible systems.
+    * **Relevant Tool:** Arize Phoenix - [https://phoenix.arize.com/](https://phoenix.arize.com/)
 
-## Google AI Studio
-ai.dev or ai.studio
-https://aistudio.google.com/prompts/new_chat
+---
 
-## Langflow
-Langflow is a low-code, open-source platform designed for developers to build and deploy AI-powered applications,  
-multi-agent systems, and Retrieval-Augmented Generation (RAG) applications.  
-built with Python. This means developers can access the underlying code,  
-customize components, and extend the platform's functionality to fit their specific needs.  
-It specializes in building agentic AI, where AI agents can use various tools and APIs to perform tasks. Langflow also facilitates the creation of RAG applications, which enhance Large Language Models (LLMs) by allowing them to access and retrieve information from external knowledge bases.
-https://www.langflow.org/
+## Links & Tools Discussed
+
+* **Understanding AI Agents:**
+    * Whitepaper: [https://ppc.land/content/files/2025/01/Newwhitepaper_Agents2.pdf](https://ppc.land/content/files/2025/01/Newwhitepaper_Agents2.pdf)
+
+* **Google Gemma:**
+    * Open models by Google: [https://ai.google.dev/gemma](https://ai.google.dev/gemma)
+
+* **Google AI Studio:**
+    * Platform for prototyping with generative models.
+    * Access via: [ai.dev](https://ai.google.dev/) or directly at [https://aistudio.google.com/](https://aistudio.google.com/) (e.g., for new chats: [https://aistudio.google.com/prompts/new_chat](https://aistudio.google.com/prompts/new_chat))
+
+* **Langflow:**
+    * A low-code, open-source platform for building AI applications, multi-agent systems, and RAG applications. It's Python-based, allowing for customization.
