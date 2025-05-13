@@ -4,21 +4,24 @@ A collections of links and resources about the MLops community Berlin.
 # 12 May 25
 https://lu.ma/xviwq6gw
 ### Speakers
+
 - Patrick Loeber
+https://patloeber.com/
+
 ​Senior Developer Relations Engineer, Google DeepMind
 Building AI Agents with Google Gemini
-​A look at how Google Gemini enables multimodal agents and supports workflows across the Google ecosystem—laying the groundwork for interoperability through A2A.
-
-​- Tejas Kumar
+​A look at how Google Gemini enables multimodal agents and supports workflows across the Google ecosystem—laying the groundwork for interoperability through A2A.  
+​
+- Tejas Kumar  
 ​Developer Relations Engineer, Generative AI, DataStax
 ​Live Coding: Agents with DataStax + MCP
 ​See how real-time pipelines and the Model Context Protocol help agents make better decisions. Expect a full-stack walkthrough—no fluff.
 
-​- Dat Daryl Ngo
-​Director of Solutions, Arize AI
-​Evaluating & Scaling AI Agents for Production
-​From observability to bottlenecks: how to actually get agents working in production environments, especially in the messiness of A2A-compatible systems.
-
+​- Dat Daryl Ngo  
+​Director of Solutions, Arize AI  
+​Evaluating & Scaling AI Agents for Production  
+​From observability to bottlenecks: how to actually get agents working in production environments, especially in the messiness of A2A-compatible systems.  
+https://phoenix.arize.com/
 
 ## Resources
 
