@@ -44,5 +44,8 @@ A collection of links and resources from the MLOps Community Berlin meetup.
 * **Langflow:**
     * A low-code, open-source platform for building AI applications, multi-agent systems, and RAG applications. It's Python-based, allowing for customization.
 
- ## More resources
- https://youtu.be/T2nBvNBzrP8?si=1vrMfmfrd8jDSE12  
+## More resources
+https://youtu.be/T2nBvNBzrP8?si=1vrMfmfrd8jDSE12  
+
+
+https://github.com/patrickloeber/workshop-build-with-gemini
